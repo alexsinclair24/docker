@@ -1,0 +1,3 @@
+From scratch
+Copy hello/
+CMD ["/hello"]
